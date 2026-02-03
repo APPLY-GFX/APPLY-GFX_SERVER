@@ -1,3 +1,2 @@
 free_all|2026-02-05
-freeone|2026-02-04
-
+free_always|2026-02-04
